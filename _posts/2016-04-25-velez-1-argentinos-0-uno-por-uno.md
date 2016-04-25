@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Vélez 1 - Argentinos 0: Uno por Uno'
-datePublished: '2016-04-25T19:44:05.846Z'
-dateModified: '2016-04-25T19:42:43.740Z'
+datePublished: '2016-04-25T19:50:45.074Z'
+dateModified: '2016-04-25T19:44:11.396Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-velez-1-argentinos-0-uno-por-uno.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-velez-1-argentinos-0-uno-por-uno.md
-published: true
 url: velez-1-argentinos-0-uno-por-uno/index.html
 _type: Article
 
