@@ -1,6 +1,6 @@
 name: Pasión Fortinera
 favicon: null
-layout_spectrum: 0.45858
+layout_spectrum: 0.41199
 typography_spectrum: 0.9390571329277009
 title: Se Explica Solamente Con El Corazón
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.4569176349323243
   lightness: 0.3308623905759305
   saturation: 0.46521379239857197
-  rhythmicContrast: 0.8266157479956746
+  rhythmicContrast: 0.75
 purpose: []
