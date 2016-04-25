@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Ahí esta el milagro, qué otra cosa podes buscar para explicar este triunfo agónico, con el cabezazo de Giannetti, tal vez junto a Desábato, los dos mejores jugadores del Fortín. En un partido malísimo, donde Argentinos mostró que está donde está por algo, pero créanme, anoche Vélez sólo fue más desde las ganas, desde el fútbol esto era un cero a cero que calificaba el partido mejor que cualquier explicación que cualquier opinólogo pueda intentar. Se ganó, tres puntos importantísimos, que no despejan nubarrones ,pero al menos amainó la tempestad, esa tempestad que se hubiese desatado si el Pocho Insúa, viejo y todo, hubiese embocado ese zurdazo delicioso, al fin y al cabo el único gesto de fútbol que vimos en la noche de Liniers. Hubo progresos, sólo desde las ganas, frente al Rojo fue un fiasco anímico y futbolista, lo de anoche marca esa diferencia, absolutamente eso y nada más. Te fuimos a ver Fortín, hace de cuenta que te vimos, igual las gracias nunca están de más. '
-datePublished: '2016-04-25T19:32:00.425Z'
-dateModified: '2016-04-25T19:31:40.772Z'
+datePublished: '2016-04-25T19:40:20.980Z'
+dateModified: '2016-04-25T19:32:10.626Z'
 title: Por una cabeza
 author: []
 authors: []
