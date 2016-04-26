@@ -1,29 +1,41 @@
-name: Pasión Fortinera
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0
 title: Se Explica Solamente Con El Corazón
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2759857
+  brandStrength: 1
+  lightness: 1
   brandColors:
     - '#fffdff'
     - '#17418b'
     - '#6b80a1'
     - '#8ea2c7'
     - '#bfcbda'
-  brandStrength: 1
-  lightness: 0.625
-  saturation: 0.46521379239857197
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.2885305
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Pasión Fortinera
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0
+layout_spectrum: 0
