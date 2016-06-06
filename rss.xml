@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Se Explica Solamente Con El Corazón]]></title>
-        <description><![CDATA[Se Explica Solamente Con El Corazón]]></description>
+        <title><![CDATA[Pasión Fortinera]]></title>
+        <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 23:08:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 23:28:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d4e33a7-d8fe-452f-9ff7-88f32d3dd687.jpg">]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/pupi-enbichado/index.html</link>
+            <guid isPermaLink="false">0e37e04c-004b-4751-bee3-2f7b8affa601</guid>
+            <pubDate>Mon, 06 Jun 2016 23:28:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Se terminó el torneo y comenzaron así los rumores de transferencias, altas y bajas en el fútbol argentino y, por más que recién arranque todo esto, Vélez no se queda afuera. De forma muy calmada, empiezan a aparecer en el radar algunos nombres. </p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/pasion-fortinera/asamblea-informativa/index.html</link>
             <guid isPermaLink="false">2ccca41f-a9e4-4f1f-99b2-ab910649af9e</guid>
             <pubDate>Mon, 06 Jun 2016 23:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d4e33a7-d8fe-452f-9ff7-88f32d3dd687.jpg">]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/pupi-enbichado/index.html</link>
-            <guid isPermaLink="false">0e37e04c-004b-4751-bee3-2f7b8affa601</guid>
-            <pubDate>Mon, 06 Jun 2016 23:08:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
