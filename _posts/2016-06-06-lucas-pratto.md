@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: LUCAS PRATTO
-datePublished: '2016-06-06T23:47:52.113Z'
-dateModified: '2016-06-06T23:47:40.154Z'
+datePublished: '2016-06-06T23:51:09.747Z'
+dateModified: '2016-06-06T23:47:56.114Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-06-lucas-pratto.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-06-lucas-pratto.md
 url: lucas-pratto/index.html
 _type: Article
 
