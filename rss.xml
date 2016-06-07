@@ -4,8 +4,15 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 13:00:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 13:00:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Danza de nombres]]></title>
+            <description><![CDATA[<article><h1>Danza de nombres</h1><p>Se terminó el torneo y comenzaron así los rumores de transferencias, altas y bajas en el fútbol argentino y, por más que recién arranque todo esto, Vélez no se queda afuera. De forma muy calmada, empiezan a aparecer en el radar algunos nombres.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/danza-de-nombres/index.html</link>
+            <guid isPermaLink="false">000c00c7-f667-4f9e-aa01-a2514ab16f10</guid>
+            <pubDate>Tue, 07 Jun 2016 13:00:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Homenajes: Lucas Pratto]]></title>
             <description><![CDATA[<article><h1>Homenajes: Lucas Pratto</h1><p>Llegando al 4 de Junio del año 2016, cumplís 28 años y cómo lo vamos a dejar pasar. Cómo no lo vamos a recordar. Hace un tiempo que no jugás más con la V en el pecho y la etapa posterior se sintió. En una nota anterior mía despidiéndote dije que "tu sangre, claramente era compatible con el ADN de Vélez" y es lo que quisiera remarcar en estos minutos usados para recordarte. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2645df956413a454a12e576fc78deee9f2964b3f.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/velez-1-argentinos-0-uno-por-uno/index.html</link>
             <guid isPermaLink="false">ec226bce-2a24-4795-bb02-8ab99bd4f2c6</guid>
             <pubDate>Mon, 25 Apr 2016 19:55:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Por una cabeza]]></title>
-            <description><![CDATA[<article><h1>Por una cabeza</h1><p>Ahí esta el milagro, qué otra cosa podes buscar para explicar este triunfo agónico, con el cabezazo de Giannetti, tal vez junto a Desábato, los dos mejores jugadores del Fortín. En un partido malísimo, donde Argentinos mostró que está donde está por algo, pero créanme, anoche Vélez sólo fue más desde las ganas, desde el fútbol esto era un cero a cero que calificaba el partido mejor que cualquier explicación que cualquier opinólogo pueda intentar. Se ganó, tres puntos importantísimos, que no despejan nubarrones ,pero al menos amainó la tempestad, esa tempestad que se hubiese desatado si el Pocho Insúa, viejo y todo, hubiese embocado ese zurdazo delicioso, al fin y al cabo el único gesto de fútbol que vimos en la noche de Liniers. Hubo progresos, sólo desde las ganas, frente al Rojo fue un fiasco anímico y futbolista, lo de anoche marca esa diferencia, absolutamente eso y nada más. Te fuimos a ver Fortín, hace de cuenta que te vimos, igual las gracias nunca están de más. </p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/por-una-cabeza/index.html</link>
-            <guid isPermaLink="false">08f49fb4-3220-4c4e-b328-32a1cb357456</guid>
-            <pubDate>Mon, 25 Apr 2016 19:40:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
