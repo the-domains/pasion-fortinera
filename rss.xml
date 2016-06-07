@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 07 Jun 2016 14:14:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2016 14:43:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
@@ -61,13 +61,6 @@
             <link>https://thegrid.ai/pasion-fortinera/asamblea-informativa/index.html</link>
             <guid isPermaLink="false">2ccca41f-a9e4-4f1f-99b2-ab910649af9e</guid>
             <pubDate>Mon, 06 Jun 2016 23:08:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f79f952-e309-420c-b4f7-bb27cc63f9a1.jpg">]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/los-numeros/index.html</link>
-            <guid isPermaLink="false">8eceec5f-1965-4de4-8694-b22eb8832545</guid>
-            <pubDate>Mon, 25 Apr 2016 19:58:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
