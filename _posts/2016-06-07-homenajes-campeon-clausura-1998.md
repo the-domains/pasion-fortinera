@@ -5,24 +5,23 @@ inNav: false
 inLanguage: null
 keywords: []
 description: >-
-  Un día como hoy, Martín Posse quedaba suspendido en el aire y conectaba, de
-  cabeza lo que sería su noveno gol en el torneo y ponía el 1 a 0 (que a la
-  larga sería el resultado definitivo) frente a Huracán.
-datePublished: '2016-06-07T13:51:39.174Z'
-dateModified: '2016-06-07T13:51:23.772Z'
-title: 'Homenajes: Campeón Clausura 1998 '
+  De esta manera, el Fortín se consagraba campeón del Clausura 98 de manera
+  arrasadora una fecha antes. En 19 partidos, ganó 14, empató 4 y perdió 1 (81%
+  de efectividad). Convirtió 39 goles y recibió 14 solamente. Una campaña
+  espectacular de la mano de alguien especial, el Loco Bielsa.
+datePublished: '2016-06-07T14:14:33.170Z'
+dateModified: '2016-06-07T14:14:28.748Z'
+title: ''
 author: []
+sourcePath: _posts/2016-06-07-homenajes-campeon-clausura-1998.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-07-homenajes-campeon-clausura-1998.md
 url: homenajes-campeon-clausura-1998/index.html
 _type: Article
 
 ---
-### Homenajes: Campeón Clausura 1998
-
-Un día como hoy, Martín Posse quedaba suspendido en el aire y conectaba, de cabeza lo que sería su noveno gol en el torneo y ponía el 1 a 0 (que a la larga sería el resultado definitivo) frente a Huracán.
+### Homenajes: Campeón Clausura 98Un día como hoy, Martín Posse quedaba suspendido en el aire y conectaba, de cabeza lo que sería su noveno gol en el torneo y ponía el 1 a 0 (que a la larga sería el resultado definitivo) frente a Huracán.
 
 De esta manera, el Fortín se consagraba campeón del Clausura 98 de manera arrasadora una fecha antes. En 19 partidos, ganó 14, empató 4 y perdió 1 (81% de efectividad). Convirtió 39 goles y recibió 14 solamente. Una campaña espectacular de la mano de alguien especial, el Loco Bielsa.
 
