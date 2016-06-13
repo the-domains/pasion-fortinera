@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 13:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 13:13:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#UnDíaComoHoy]]></title>
+            <description><![CDATA[<article><h1>#UnDíaComoHoy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6e0a0495-4230-47e0-9e88-be1a732f8364.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
+            <guid isPermaLink="false">80c51c22-19f2-4e41-bfcf-975b321f37c1</guid>
+            <pubDate>Mon, 13 Jun 2016 13:13:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vélez - Huracán: Inferiores]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/la-semana-del-polideportivo/index.html</link>
             <guid isPermaLink="false">90205c6c-32d5-496e-af33-58317bf9204c</guid>
             <pubDate>Wed, 08 Jun 2016 15:59:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Me quedan dos años de contrato y vuelvo a Vélez"]]></title>
-            <description><![CDATA[<article><h1>"Me quedan dos años de contrato y vuelvo a Vélez"</h1><p>Mauro Zárate, hijo pródigo de Vélez, habló en Indirecto (TyC Sports) el viernes por la tarde y dejó declaraciones interesantes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d5df78e-6b73-46af-87bf-b5ef05224bfd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/me-quedan-dos-anos-de-contrato-y-vuelvo-a-velez/index.html</link>
-            <guid isPermaLink="false">d5dcf0fc-8ee7-4575-be12-7e39a57e591e</guid>
-            <pubDate>Wed, 08 Jun 2016 13:44:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
