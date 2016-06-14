@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 16:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2016 16:47:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#UnDíaComoHoy]]></title>
+            <description><![CDATA[<article><h1>#UnDíaComoHoy</h1><p>Un día como hoy, pero de 1992, Vélez vencía a Central 2-0 con goles de E. González y Ruggeri. Ese equipo formó con Chilavert; Trotta, Ruggeri, Almandoz, Cardozo; Gómez, Mancuso, Bassedas, O. Sánchez; E. González y Gareca.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63722521-3420-4ee0-a7c4-55d02fd2c47d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
+            <guid isPermaLink="false">dff45f80-9a76-49e1-9fe7-da35da91682a</guid>
+            <pubDate>Tue, 14 Jun 2016 16:46:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#ADNFortinero: De la mano del Tigre]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/un-dia-como-hoy/index.html</link>
             <guid isPermaLink="false">a9bfb248-0f9f-47c3-a372-817401163c77</guid>
             <pubDate>Thu, 09 Jun 2016 13:11:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>#PFRadio 51</p>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/pfradio-51/index.html</link>
-            <guid isPermaLink="false">3ec8e12c-d5cb-48ea-8077-b268cfd9dde3</guid>
-            <pubDate>Wed, 08 Jun 2016 17:13:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
