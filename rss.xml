@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Jun 2016 16:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 13:33:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#UnDíaComoHoy]]></title>
+            <description><![CDATA[<article><h1>#UnDíaComoHoy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cd01ccb-0292-472a-89e7-f0df6bd93fe8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
+            <guid isPermaLink="false">589bd51a-26b9-4e04-b126-06bb8035559e</guid>
+            <pubDate>Wed, 15 Jun 2016 13:32:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La semana del Polideportivo]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
             <guid isPermaLink="false">30a65919-47ad-489d-9397-58edd8646114</guid>
             <pubDate>Fri, 10 Jun 2016 12:41:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Busqueda lateral]]></title>
-            <description><![CDATA[<article><h1>Busqueda lateral</h1><p>Sigue la danza de nombres en esta Pretemporada y esta vez es el turno de la defensa. Nuevos acercamientos y ofertas rondan por Liniers y los dirigentes escuchan y se mueven para traerle nombres a Christian Bassedas.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9843f52-f2ab-4e74-b106-a0d9fb88a60b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/busqueda-lateral/index.html</link>
-            <guid isPermaLink="false">42af0784-ed24-4f56-95c1-39bf4ba37f3f</guid>
-            <pubDate>Thu, 09 Jun 2016 14:24:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
