@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 13:33:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 15:05:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[#ADNFortinero: Copa América]]></title>
+            <description><![CDATA[<article><h1>#ADNFortinero: Copa América</h1><p>El martes por la noche, la Selección Argentina hacía su tercera presentación en la Copa América Centenario frente a Bolivia. El Tata Martino dispuso dentro de los once sólo un jugador de la entraña de Vélez, Nicolás Otamendi.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/adnfortinero-copa-america/index.html</link>
+            <guid isPermaLink="false">1160e9ee-ce25-4e19-a74e-30837f04c7a4</guid>
+            <pubDate>Wed, 15 Jun 2016 15:05:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#UnDíaComoHoy]]></title>
-            <description><![CDATA[<article><h1>#UnDíaComoHoy</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cd01ccb-0292-472a-89e7-f0df6bd93fe8.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>#UnDíaComoHoy</h1><p>Un día como hoy pero de 1975, Velez‬ vencía a Gimnasia de La Plata 4-1 con goles de J. Asad (2), Troncoso y Correa</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cd01ccb-0292-472a-89e7-f0df6bd93fe8.jpg"></article>]]></description>
             <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
             <guid isPermaLink="false">589bd51a-26b9-4e04-b126-06bb8035559e</guid>
             <pubDate>Wed, 15 Jun 2016 13:32:40 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/los-titulos-dejaron-un-gran-pasivo-y-debiamos-sacar-el-club/index.html</link>
             <guid isPermaLink="false">ba7c17b2-1d2c-44c9-a534-03b005e07368</guid>
             <pubDate>Fri, 10 Jun 2016 13:02:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#UnDíaComoHoy]]></title>
-            <description><![CDATA[<article><h1>#UnDíaComoHoy</h1><p>Un día como hoy, pero de 2012, Vélez vencía a At. Rafaela 2-1 con goles de Óbolo y Martínez. Ese equipo formó con: Barovero; Peruzzi, Domínguez, Ortiz, Papa; Bella, Cerro, Zapata, Cabral; Martínez y Óbolo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5af0d2aaced0198de287c9c3268695f917b14210.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
-            <guid isPermaLink="false">30a65919-47ad-489d-9397-58edd8646114</guid>
-            <pubDate>Fri, 10 Jun 2016 12:41:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
