@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 13:22:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 14:04:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Finalizan su vínculo]]></title>
+            <description><![CDATA[<article><h1>Finalizan su vínculo</h1><p>El miércoles por la noche quedaron confirmadas dos bajas más del plantel profesional.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7b49a75-0e33-4438-a47d-6bd0702e2abd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/finalizan-su-vinculo/index.html</link>
+            <guid isPermaLink="false">1d03cae4-1e08-4711-859b-7a7984077ea6</guid>
+            <pubDate>Thu, 16 Jun 2016 14:03:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#UnDíaComoHoy ]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
             <guid isPermaLink="false">80c51c22-19f2-4e41-bfcf-975b321f37c1</guid>
             <pubDate>Mon, 13 Jun 2016 13:13:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vélez - Huracán: Inferiores]]></title>
-            <description><![CDATA[<article><h1>Vélez - Huracán: Inferiores</h1><p>Esta semana se jugó la fecha 2 de la Zona Campeonato del Torneo de Inferiores 2016. El Fortín enfrentó a Huracán, jugando las categorías mayores como local y las menores como visitante. El saldo fue parejo, ya que el Fortín obtuvo dos victorias, dos empate y dos derrotas.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/velez-huracan-inferiores/index.html</link>
-            <guid isPermaLink="false">6adbd9e7-eefd-43d0-8309-cceda7bd7bd2</guid>
-            <pubDate>Mon, 13 Jun 2016 13:07:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
