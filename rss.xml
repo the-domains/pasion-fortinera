@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 15:05:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 13:19:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#UnDíaComoHoy]]></title>
+            <description><![CDATA[<article><h1>#UnDíaComoHoy</h1><p>Un día como hoy pero de 1894, nacía quien hizo de Vélez‬ lo que es hoy en día, el gran José Amalfitani</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeeab49d-d3e0-40f3-a6f1-4f9803155ad6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
+            <guid isPermaLink="false">727e9f9e-2cee-4dfa-8a7b-a5f472c596e2</guid>
+            <pubDate>Thu, 16 Jun 2016 13:19:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#ADNFortinero: Copa América]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/adnfortinero-copa-america/index.html</link>
             <guid isPermaLink="false">cd85723c-e0f1-4faf-ab0f-8fcd8ed3392b</guid>
             <pubDate>Mon, 13 Jun 2016 13:00:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Los títulos dejaron un gran pasivo y debíamos sacar el Club adelante"]]></title>
-            <description><![CDATA[<article><h1>"Los títulos dejaron un gran pasivo y debíamos sacar el Club adelante"</h1><p>Álvaro Balestrini pasó por el aire de #PFRadio y habló de todo: La Asamblea informativa, el estado de la institución, la posible venta de Toledo y mucho más.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d693514-4d75-46c9-af3e-0a9d89178df5.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/los-titulos-dejaron-un-gran-pasivo-y-debiamos-sacar-el-club/index.html</link>
-            <guid isPermaLink="false">ba7c17b2-1d2c-44c9-a534-03b005e07368</guid>
-            <pubDate>Fri, 10 Jun 2016 13:02:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
