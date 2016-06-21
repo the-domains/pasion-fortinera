@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 14:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 14:15:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/pasion-fortinera/33be8a56-767c-4b97-93a6-c70a1dbc4ac8/index.html</link>
+            <guid isPermaLink="false">33be8a56-767c-4b97-93a6-c70a1dbc4ac8</guid>
+            <pubDate>Tue, 21 Jun 2016 14:15:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vélez - Olimpo: Inferiores]]></title>
@@ -68,13 +74,6 @@
             <link>https://thegrid.ai/pasion-fortinera/adnfortinero-copa-america/index.html</link>
             <guid isPermaLink="false">1160e9ee-ce25-4e19-a74e-30837f04c7a4</guid>
             <pubDate>Wed, 15 Jun 2016 15:05:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#UnDíaComoHoy]]></title>
-            <description><![CDATA[<article><h1>#UnDíaComoHoy</h1><p>Un día como hoy pero de 1975, Velez‬ vencía a Gimnasia de La Plata 4-1 con goles de J. Asad (2), Troncoso y Correa</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2cd01ccb-0292-472a-89e7-f0df6bd93fe8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
-            <guid isPermaLink="false">589bd51a-26b9-4e04-b126-06bb8035559e</guid>
-            <pubDate>Wed, 15 Jun 2016 13:32:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
