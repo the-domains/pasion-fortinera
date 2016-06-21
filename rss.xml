@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 14:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 14:11:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vélez - Olimpo: Inferiores]]></title>
+            <description><![CDATA[<article><h1>Vélez - Olimpo: Inferiores</h1><p>Esta semana se jugó la fecha 3 de la Zona Campeonato del Torneo de Inferiores 2016. El Fortín enfrentó a Olimpo, jugando las categorías menores como local y las mayores como visitante. El saldo fue bueno, ya que el Fortín obtuvo cuatro victorias, un empate y una derrota.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/velez-olimpo-inferiores/index.html</link>
+            <guid isPermaLink="false">e5442de0-2a0b-492c-98f8-39a1e870461b</guid>
+            <pubDate>Tue, 21 Jun 2016 14:11:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#ADNFortinero: Copa América]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
             <guid isPermaLink="false">589bd51a-26b9-4e04-b126-06bb8035559e</guid>
             <pubDate>Wed, 15 Jun 2016 13:32:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La semana del Polideportivo]]></title>
-            <description><![CDATA[<article><h1>La semana del Polideportivo</h1><p>En esta ocasión, analizaremos (como ya es habitual estas semanas) lo más importante de la semana del Polideportivo del Club Atlético Vélez Sarsfield.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b56b2738-cd2e-4ad4-bd97-8f52063d3d8f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/la-semana-del-polideportivo/index.html</link>
-            <guid isPermaLink="false">1a176f08-1d9d-474b-8c1d-46fe69b432c7</guid>
-            <pubDate>Tue, 14 Jun 2016 16:48:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
