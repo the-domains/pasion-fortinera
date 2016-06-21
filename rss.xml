@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 21 Jun 2016 14:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2016 14:24:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,7 +14,15 @@
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pasión Fortinera Radio #53]]></title>
+            <description><![CDATA[<article><h1>Pasión Fortinera Radio #53</h1><p>Escucha el 53° programa de #PFRadio en La RZ con los nombres que interesan,, la entrevista a Alejo Blanco, mediapunta de la Quinta, la jornada de Inferiores y mucho más.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/pasion-fortinera-radio-53/index.html</link>
+            <guid isPermaLink="false">f136ac5a-c525-4995-9b4b-e3fce70d0cb1</guid>
+            <pubDate>Tue, 21 Jun 2016 14:24:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Un día como hoy pero de 2008, Vélez vencía a Huracán 2-1 con goles de Cristaldo y Ocampo. Ese equipo formó con Montoya; G. Díaz, Tobio, Pellerano, Lima; Bella, Sena, Despósito, Zapata; Silva y Cristaldo.</p>]]></description>
             <link>https://thegrid.ai/pasion-fortinera/33be8a56-767c-4b97-93a6-c70a1dbc4ac8/index.html</link>
             <guid isPermaLink="false">33be8a56-767c-4b97-93a6-c70a1dbc4ac8</guid>
             <pubDate>Tue, 21 Jun 2016 14:15:36 GMT</pubDate>
@@ -67,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
             <guid isPermaLink="false">727e9f9e-2cee-4dfa-8a7b-a5f472c596e2</guid>
             <pubDate>Thu, 16 Jun 2016 13:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#ADNFortinero: Copa América]]></title>
-            <description><![CDATA[<article><h1>#ADNFortinero: Copa América</h1><p>El martes por la noche, la Selección Argentina hacía su tercera presentación en la Copa América Centenario frente a Bolivia. El Tata Martino dispuso dentro de los once sólo un jugador de la entraña de Vélez, Nicolás Otamendi.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/adnfortinero-copa-america/index.html</link>
-            <guid isPermaLink="false">1160e9ee-ce25-4e19-a74e-30837f04c7a4</guid>
-            <pubDate>Wed, 15 Jun 2016 15:05:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
