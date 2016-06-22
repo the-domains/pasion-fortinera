@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 22 Jun 2016 12:43:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2016 12:46:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La semana del Polideportivo]]></title>
+            <description><![CDATA[<article><h1>La semana del Polideportivo</h1><p>Vóley</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/la-semana-del-polideportivo/index.html</link>
+            <guid isPermaLink="false">7c5329c6-35cd-46c4-92f0-368a24d9422f</guid>
+            <pubDate>Wed, 22 Jun 2016 12:46:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pasión Fortinera Radio #53]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
             <guid isPermaLink="false">5aea76c5-b61c-411e-ad9e-3516bddfda9f</guid>
             <pubDate>Thu, 16 Jun 2016 13:22:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#UnDíaComoHoy]]></title>
-            <description><![CDATA[<article><h1>#UnDíaComoHoy</h1><p>Un día como hoy pero de 1894, nacía quien hizo de Vélez‬ lo que es hoy en día, el gran José Amalfitani</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aeeab49d-d3e0-40f3-a6f1-4f9803155ad6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/undiacomohoy/index.html</link>
-            <guid isPermaLink="false">727e9f9e-2cee-4dfa-8a7b-a5f472c596e2</guid>
-            <pubDate>Thu, 16 Jun 2016 13:19:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
