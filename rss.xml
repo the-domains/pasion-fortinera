@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 13:45:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 13:55:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#ADNFortinero]]></title>
+            <description><![CDATA[<h1>#ADNFortinero</h1>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/adnfortinero/index.html</link>
+            <guid isPermaLink="false">351b927f-643d-4337-acb2-8864b40e3b51</guid>
+            <pubDate>Thu, 30 Jun 2016 13:55:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vélez - Talleres]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/adnfortinero-copa-america/index.html</link>
             <guid isPermaLink="false">801d9d9a-9d86-4459-9093-347b80ca44fc</guid>
             <pubDate>Tue, 21 Jun 2016 14:08:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amistosos confirmados (por ahora)]]></title>
-            <description><![CDATA[<article><h1>Amistosos confirmados (por ahora)</h1><p>Se sabe que la Pretemporada de Vélez empezará el 27 de junio. Sin embargo, de a poco, se empiezan a confirmar algunos de los amistosos que disputará el equipo de Christian Bassedas durante el receso invernal.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3388ac5a-6749-4214-9d1b-14322c057005.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/amistosos-confirmados-por-ahora/index.html</link>
-            <guid isPermaLink="false">bc73010e-50dc-4b09-a6e2-100ce06bf58e</guid>
-            <pubDate>Tue, 21 Jun 2016 14:05:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
