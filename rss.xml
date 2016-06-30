@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 13:39:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 13:45:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vélez - Talleres]]></title>
+            <description><![CDATA[<article><h1>Vélez - Talleres</h1><p>Esta semana se jugó la fecha 4 de la Zona Campeonato del Torneo de Inferiores 2016. El Fortín enfrentó a Talleres, jugando las categorías mayores como local y las menores como visitante. El saldo fue malo, ya que el Fortín obtuvo una victoria, dos empates y tres derrotas.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/058bad0b-1a97-4d6d-ae05-6b738cbd6b65.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/velez-talleres/index.html</link>
+            <guid isPermaLink="false">5965df9e-0599-41f4-8eed-086cf0a66645</guid>
+            <pubDate>Thu, 30 Jun 2016 13:44:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Comunicado Oficial: Benjamín Garré]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/amistosos-confirmados-por-ahora/index.html</link>
             <guid isPermaLink="false">bc73010e-50dc-4b09-a6e2-100ce06bf58e</guid>
             <pubDate>Tue, 21 Jun 2016 14:05:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carta abierta a Don Pepe]]></title>
-            <description><![CDATA[<article><h1>Carta abierta a Don Pepe</h1><p>Un 16/6/1894 nacía la figura más importante que haya pasado por el glorioso Club Atlético Vélez Sarsfield. Sin dudas lo fue, ya que resultó el artífice fundamental para que Vélez sea lo que es hoy en día. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d8c3ece-d91f-482a-845e-2a98abf74988.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/carta-abierta-a-don-pepe/index.html</link>
-            <guid isPermaLink="false">b3adf024-d178-4112-a6c4-339c6081e915</guid>
-            <pubDate>Thu, 16 Jun 2016 14:56:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
