@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 13:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 13:29:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Llegó el segundo]]></title>
+            <description><![CDATA[<h1>Llegó el segundo</h1>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/llego-el-segundo/index.html</link>
+            <guid isPermaLink="false">04d85ff3-5743-4cfb-86e7-57e8c040a986</guid>
+            <pubDate>Wed, 06 Jul 2016 13:28:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#ADNFortinero: Nuevas caras]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/velez-talleres/index.html</link>
             <guid isPermaLink="false">5965df9e-0599-41f4-8eed-086cf0a66645</guid>
             <pubDate>Thu, 30 Jun 2016 13:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Comunicado Oficial: Benjamín Garré]]></title>
-            <description><![CDATA[<article><h1>Comunicado Oficial: Benjamín Garré</h1><p>Ante la decisión de Benjamín Garré, enganche de la Séptima División del Club de marcharse al Manchester City, Vélez expuso su posición a través de un comunicado en la página oficial.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/comunicado-oficial-benjamin-garre/index.html</link>
-            <guid isPermaLink="false">f3473cd6-dea3-4048-b8aa-90bd329e207c</guid>
-            <pubDate>Thu, 30 Jun 2016 13:39:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
