@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 13:55:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 13:17:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[La semana del Polideportivo]]></title>
+            <description><![CDATA[<article><h1>La semana del Polideportivo</h1><p>Como ya es habitual, realizaremos un breve resumen de la semana del Polideportivo del Club Atlético Vélez Sarsfield.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e35924dd-5f44-4f6e-8495-eb23dab25132.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/la-semana-del-polideportivo/index.html</link>
+            <guid isPermaLink="false">5fad0fd5-1d69-49d9-9786-a0a33a2438aa</guid>
+            <pubDate>Wed, 06 Jul 2016 13:17:45 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#ADNFortinero]]></title>
-            <description><![CDATA[<h1>#ADNFortinero</h1>]]></description>
+            <description><![CDATA[<article><h1>#ADNFortinero</h1><p>El domingo por la noche, la Selección Argentina hacía su última presentación en la Copa América Centenario frente a Chile. </p></article>]]></description>
             <link>https://thegrid.ai/pasion-fortinera/adnfortinero/index.html</link>
             <guid isPermaLink="false">351b927f-643d-4337-acb2-8864b40e3b51</guid>
             <pubDate>Thu, 30 Jun 2016 13:55:04 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/velez-olimpo-inferiores/index.html</link>
             <guid isPermaLink="false">e5442de0-2a0b-492c-98f8-39a1e870461b</guid>
             <pubDate>Tue, 21 Jun 2016 14:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#ADNFortinero: Copa América]]></title>
-            <description><![CDATA[<article><h1>#ADNFortinero: Copa América</h1><p>El sábado por la noche, la Selección Argentina hacía su cuarta presentación en la Copa América Centenario frente a Venezuela. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5007eb4-a818-437a-918c-c701e09116dc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/adnfortinero-copa-america/index.html</link>
-            <guid isPermaLink="false">801d9d9a-9d86-4459-9093-347b80ca44fc</guid>
-            <pubDate>Tue, 21 Jun 2016 14:08:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
