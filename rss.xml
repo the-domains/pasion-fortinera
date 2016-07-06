@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 13:23:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 13:25:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Desde el Banco: Vélez Sarsfield]]></title>
+            <description><![CDATA[<article><h1>Desde el Banco: Vélez Sarsfield</h1><p>¡Qué lindo volver a encontrarnos amig@ lector! Aunque usted se preguntará de qué va a hablar este muchacho si el DEB es el análisis técnico-táctico del partido de turno. Como alguna vez avisé, hoy no será “Desde el Banco” sino “Desde el Diván”. Y el paciente de turno seré yo, lo será usted y todo aquel hincha de Vélez que crea necesario parar la pelota, mirar la cancha y ver hacia dónde encaramos. Al finalizar la columna podremos estar más o menos de acuerdo, pero creo que nos merecemos un ratito de calma, como quien se junta a charlar con un amigo y entre mates se pone al día y se nutre del diálogo y el intercambio de ideas y puntos de vista.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a44c03d5-be3e-4a5d-a9c2-a22d46c31512.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/desde-el-banco-velez-sarsfield/index.html</link>
+            <guid isPermaLink="false">60befb64-330d-4494-834a-64742571fe1e</guid>
+            <pubDate>Wed, 06 Jul 2016 13:25:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Llega el primero]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/y-el-rival-es/index.html</link>
             <guid isPermaLink="false">00e2616e-de1a-4c3b-9c1a-00dab57c1b39</guid>
             <pubDate>Thu, 30 Jun 2016 13:35:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#ADNFortinero]]></title>
-            <description><![CDATA[<article><h1>#ADNFortinero</h1><p>El martes por la noche, la Selección Argentina hacía su quinta presentación en la Copa América Centenario frente a Estados Unidos. </p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/adnfortinero/index.html</link>
-            <guid isPermaLink="false">38466188-4451-468f-85ac-5a6ad92395bf</guid>
-            <pubDate>Wed, 22 Jun 2016 17:48:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
