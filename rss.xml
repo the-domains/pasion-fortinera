@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 13:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 13:21:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Se va (¿a Boca?)]]></title>
+            <description><![CDATA[<article><h1>Se va (¿a Boca?)</h1><p>Finalmente, y tras sólo 19 partidos en Primera y un gol (el "Maradoneano" a Argentinos en La Paternal), Hernán Toledo se va de Vélez ¿con destino europeo?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/738417ba-3ad5-45fb-8b84-e4079ed3dffd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/se-va-a-boca/index.html</link>
+            <guid isPermaLink="false">879964f3-b3af-40f1-8d82-3ac6825c5a30</guid>
+            <pubDate>Wed, 06 Jul 2016 13:21:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[La semana del Polideportivo]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/33be8a56-767c-4b97-93a6-c70a1dbc4ac8/index.html</link>
             <guid isPermaLink="false">33be8a56-767c-4b97-93a6-c70a1dbc4ac8</guid>
             <pubDate>Tue, 21 Jun 2016 14:15:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vélez - Olimpo: Inferiores]]></title>
-            <description><![CDATA[<article><h1>Vélez - Olimpo: Inferiores</h1><p>Esta semana se jugó la fecha 3 de la Zona Campeonato del Torneo de Inferiores 2016. El Fortín enfrentó a Olimpo, jugando las categorías menores como local y las mayores como visitante. El saldo fue bueno, ya que el Fortín obtuvo cuatro victorias, un empate y una derrota.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/velez-olimpo-inferiores/index.html</link>
-            <guid isPermaLink="false">e5442de0-2a0b-492c-98f8-39a1e870461b</guid>
-            <pubDate>Tue, 21 Jun 2016 14:11:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
