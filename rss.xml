@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 14:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 13:05:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fortineros de Selección]]></title>
+            <description><![CDATA[<article><h1>Fortineros de Selección</h1><p>Respecto a la AFA uno nunca sabe, pero al parecer, se confirmaron los 22 (incluyendo los 4 suplentes) jugadores que defenderán a la Albiceleste en Río 2016. Digo "al parecer" porque por ejemplo, Cuesta se bajaría de esta lista. Entre los mismos se encuentran dos jugadores de Vélez y un ex jugador del Fortín.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cfa2007-ce1c-47fb-a837-27b5d4ae75d4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/fortineros-de-seleccion/index.html</link>
+            <guid isPermaLink="false">b9a85871-c10c-4a64-b32e-2df8d25a41d2</guid>
+            <pubDate>Thu, 07 Jul 2016 13:05:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[askldhafhaofia]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/la-semana-del-polideportivo/index.html</link>
             <guid isPermaLink="false">5fad0fd5-1d69-49d9-9786-a0a33a2438aa</guid>
             <pubDate>Wed, 06 Jul 2016 13:17:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#ADNFortinero]]></title>
-            <description><![CDATA[<article><h1>#ADNFortinero</h1><p>El domingo por la noche, la Selección Argentina hacía su última presentación en la Copa América Centenario frente a Chile. </p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/adnfortinero/index.html</link>
-            <guid isPermaLink="false">351b927f-643d-4337-acb2-8864b40e3b51</guid>
-            <pubDate>Thu, 30 Jun 2016 13:55:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
