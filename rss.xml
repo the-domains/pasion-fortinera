@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 17:34:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 17:39:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Se van a foguear]]></title>
+            <description><![CDATA[<article><h1>Se van a foguear</h1><p>En Vélez continúan los movimientos de jugadores y hay algunos juveniles que abandonan la institución para sumar minutos.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/se-van-a-foguear/index.html</link>
+            <guid isPermaLink="false">ede9b6c7-8294-429a-a386-a9215dda8afa</guid>
+            <pubDate>Thu, 11 Aug 2016 17:39:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Las estadísticas de Vélez en el Torneo]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/llega-el-primero/index.html</link>
             <guid isPermaLink="false">5551ba38-c038-4d33-8e87-e689ff57ed26</guid>
             <pubDate>Wed, 06 Jul 2016 13:23:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Contar con refuerzos para dar un salto de calidad"]]></title>
-            <description><![CDATA[<article><h1>"Contar con refuerzos para dar un salto de calidad"</h1><p>Ese es el deseo del DT Christian Bassedas, quién está a la espera de nuevas caras para poder armar su Vélez modelo 2016-2017.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/contar-con-refuerzos-para-dar-un-salto-de-calidad/index.html</link>
-            <guid isPermaLink="false">5cb9a73b-bf30-4155-96de-916e7a1a790c</guid>
-            <pubDate>Wed, 06 Jul 2016 13:21:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
