@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 17:53:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 17:58:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#ADNFortinero: Goles y pases]]></title>
+            <description><![CDATA[<article><h1>#ADNFortinero: Goles y pases</h1><p>En pleno receso hay poco movimiento, sin embargo, hay novedades de algunos ex Vélez que te vamos a contar en una nueva entrega de un #ADNFortinero. </p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/adnfortinero-goles-y-pases/index.html</link>
+            <guid isPermaLink="false">2a63a7ad-4679-4fe3-a12c-cf94735f401b</guid>
+            <pubDate>Thu, 11 Aug 2016 17:58:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vélez - River: Inferiores]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/llego-el-segundo/index.html</link>
             <guid isPermaLink="false">04d85ff3-5743-4cfb-86e7-57e8c040a986</guid>
             <pubDate>Wed, 06 Jul 2016 13:28:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#ADNFortinero: Nuevas caras]]></title>
-            <description><![CDATA[<article><h1>#ADNFortinero: Nuevas caras</h1><p>En pleno receso hay poco movimiento, sin embargo, hay novedades de algunos ex Vélez que te vamos a contar en una nueva entrega de un #ADNFortinero. </p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/adnfortinero-nuevas-caras/index.html</link>
-            <guid isPermaLink="false">2caad355-c91d-4715-b383-905e03368414</guid>
-            <pubDate>Wed, 06 Jul 2016 13:27:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
