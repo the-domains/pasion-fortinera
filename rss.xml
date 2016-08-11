@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 17:24:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 17:29:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vélez - Central: Inferiores]]></title>
+            <description><![CDATA[<article><h1>Vélez - Central: Inferiores</h1><p>Esta semana se jugó la fecha 1 (pendiente por lluvia) de la Zona Campeonato del Torneo de Inferiores 2016. El Fortín enfrentó a Central, jugando las categorías menores como local y las mayores como visitante. El saldo fue parejo, ya que el Fortín obtuvo dos victorias, dos empates y dos derrotas.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/velez-central-inferiores/index.html</link>
+            <guid isPermaLink="false">496313e6-0dc9-4e4a-8521-147a979b0605</guid>
+            <pubDate>Thu, 11 Aug 2016 17:29:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sin memoria]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/se-va-a-boca/index.html</link>
             <guid isPermaLink="false">879964f3-b3af-40f1-8d82-3ac6825c5a30</guid>
             <pubDate>Wed, 06 Jul 2016 13:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La semana del Polideportivo]]></title>
-            <description><![CDATA[<article><h1>La semana del Polideportivo</h1><p>Como ya es habitual, realizaremos un breve resumen de la semana del Polideportivo del Club Atlético Vélez Sarsfield.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e35924dd-5f44-4f6e-8495-eb23dab25132.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/la-semana-del-polideportivo/index.html</link>
-            <guid isPermaLink="false">5fad0fd5-1d69-49d9-9786-a0a33a2438aa</guid>
-            <pubDate>Wed, 06 Jul 2016 13:17:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
