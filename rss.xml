@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 17:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 17:34:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Las estadísticas de Vélez en el Torneo]]></title>
+            <description><![CDATA[<article><h1>Las estadísticas de Vélez en el Torneo</h1><p>El Fortín culminó el Torneo Transición 2016 en la sexta posición de su zona. En Pasión Fortinera vamos a analizar profundamente las estadísticas del primer torneo de Bassedas como DT y así entender lo que pasó y proyectar lo que va a venir.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/las-estadisticas-de-velez-en-el-torneo/index.html</link>
+            <guid isPermaLink="false">8223850e-aaf7-4e42-a5d1-23e4ea0624cb</guid>
+            <pubDate>Thu, 11 Aug 2016 17:34:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vélez - Central: Inferiores]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/contar-con-refuerzos-para-dar-un-salto-de-calidad/index.html</link>
             <guid isPermaLink="false">5cb9a73b-bf30-4155-96de-916e7a1a790c</guid>
             <pubDate>Wed, 06 Jul 2016 13:21:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Se va (¿a Boca?)]]></title>
-            <description><![CDATA[<article><h1>Se va (¿a Boca?)</h1><p>Finalmente, y tras sólo 19 partidos en Primera y un gol (el "Maradoneano" a Argentinos en La Paternal), Hernán Toledo se va de Vélez ¿con destino europeo?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/738417ba-3ad5-45fb-8b84-e4079ed3dffd.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/se-va-a-boca/index.html</link>
-            <guid isPermaLink="false">879964f3-b3af-40f1-8d82-3ac6825c5a30</guid>
-            <pubDate>Wed, 06 Jul 2016 13:21:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
