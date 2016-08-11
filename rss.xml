@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Aug 2016 17:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2016 17:48:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amistosos frente a Olimpo]]></title>
+            <description><![CDATA[<article><h1>Amistosos frente a Olimpo</h1><p>Sábado por la mañana y Vélez enfrentó a Olimpo en la primer jornada de amistosos de Pretemporada.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/amistosos-frente-a-olimpo/index.html</link>
+            <guid isPermaLink="false">c17504a7-da19-40c9-8606-66683d401b02</guid>
+            <pubDate>Thu, 11 Aug 2016 17:48:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Se van a foguear]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/desde-el-banco-velez-sarsfield/index.html</link>
             <guid isPermaLink="false">60befb64-330d-4494-834a-64742571fe1e</guid>
             <pubDate>Wed, 06 Jul 2016 13:25:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Llega el primero]]></title>
-            <description><![CDATA[<article><h1>Llega el primero</h1><p>Tanto pidió Bassedas por los refuerzos y empezaron a aparecer. Hoy por la mañana se hizo presente en la Villa, la primera incorporación de Vélez de cara a este nuevo torneo.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8e21fe3-152e-4adf-8a1a-ec5c2bc8385e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/llega-el-primero/index.html</link>
-            <guid isPermaLink="false">5551ba38-c038-4d33-8e87-e689ff57ed26</guid>
-            <pubDate>Wed, 06 Jul 2016 13:23:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
