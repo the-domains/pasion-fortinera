@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 16:44:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vélez 1(3) - Juventud Unida 4(4): Uno por Uno]]></title>
+            <description><![CDATA[<article><h1>Vélez 1(3) - Juventud Unida 4(4): Uno por Uno</h1><p>Los Once</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2678e1eb-5c8c-44a7-bcb5-81f5e859001f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/velez-13-juventud-unida-44-uno-por-uno/index.html</link>
+            <guid isPermaLink="false">d2084b05-3687-4a40-a25e-f75c3dcf0643</guid>
+            <pubDate>Wed, 17 Aug 2016 16:44:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vélez 1(3) - Juventud Unida 1(4): Ficha]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/fixture-confirmado/index.html</link>
             <guid isPermaLink="false">03626bd9-3153-4240-ae29-f18da8ebe808</guid>
             <pubDate>Wed, 17 Aug 2016 16:03:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vélez - Racing: Inferiores]]></title>
-            <description><![CDATA[<article><h1>Vélez - Racing: Inferiores</h1><p>Esta semana se jugó la fecha 9 (se suspendió la 8, que se jugaba entresemana) de la Zona Campeonato del Torneo de Inferiores 2016. El Fortín enfrentó a Racing jugando las categorías menores como local y las mayores como visitante. El saldo fue bueno, ya que el Fortín obtuvo dos victorias, tres empates y una derrota.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/velez-racing-inferiores/index.html</link>
-            <guid isPermaLink="false">46c5cb46-d17c-46b8-9ec8-337dc128e953</guid>
-            <pubDate>Wed, 17 Aug 2016 15:58:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
