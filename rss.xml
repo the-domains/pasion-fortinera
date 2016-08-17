@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:03:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 16:05:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[El final de la novela]]></title>
+            <description><![CDATA[<article><h1>El final de la novela</h1><p>Que no, que sí, que no, bueno, ahora sí. La novela del Invierno llegó a su fin este martes por la noche.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/el-final-de-la-novela/index.html</link>
+            <guid isPermaLink="false">6b30f744-3756-4cfc-ad37-35842bf5253b</guid>
+            <pubDate>Wed, 17 Aug 2016 16:04:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fixture confirmado]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/amistosos-frente-a-chacarita/index.html</link>
             <guid isPermaLink="false">39c46369-b958-4c06-8605-ee25229e0216</guid>
             <pubDate>Thu, 11 Aug 2016 18:00:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fortineros de Selección]]></title>
-            <description><![CDATA[<article><h1>Fortineros de Selección</h1><p>Respecto a la AFA uno nunca sabe, pero al parecer, se confirmaron los 22 (incluyendo los 4 suplentes) jugadores que defenderán a la Albiceleste en Río 2016. Digo "al parecer" porque por ejemplo, Cuesta se bajaría de esta lista. Entre los mismos se encuentran dos jugadores de Vélez y un ex jugador del Fortín.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cfa2007-ce1c-47fb-a837-27b5d4ae75d4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/fortineros-de-seleccion/index.html</link>
-            <guid isPermaLink="false">b9a85871-c10c-4a64-b32e-2df8d25a41d2</guid>
-            <pubDate>Thu, 07 Jul 2016 13:05:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
