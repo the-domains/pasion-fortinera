@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:05:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 16:08:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Amistoso internacional]]></title>
+            <description><![CDATA[<article><h1>Amistoso internacional</h1><p>El sábado por la tarde, Vélez afrontó su primer amistoso formal (ya había disputado varios en la Villa). El rival fue Nacional de Uruguay, quien lo recibió en su estadio, el Gran Parque Central.</p></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/amistoso-internacional/index.html</link>
+            <guid isPermaLink="false">8b6e143b-0b79-4449-9c0f-2f7016b7c43e</guid>
+            <pubDate>Wed, 17 Aug 2016 16:07:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[El final de la novela]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/velez-arsenal-inferiores/index.html</link>
             <guid isPermaLink="false">078689db-1850-490f-b79b-c7818dd54d02</guid>
             <pubDate>Thu, 11 Aug 2016 18:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amistosos frente a Chacarita]]></title>
-            <description><![CDATA[<article><h1>Amistosos frente a Chacarita</h1><p>Sábado por la mañana y Vélez enfrentó a Chacarita en la tercera jornada de amistosos de Pretemporada.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/amistosos-frente-a-chacarita/index.html</link>
-            <guid isPermaLink="false">39c46369-b958-4c06-8605-ee25229e0216</guid>
-            <pubDate>Thu, 11 Aug 2016 18:00:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
