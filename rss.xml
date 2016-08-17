@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:33:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 16:41:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vélez 1(3) - Juventud Unida 1(4): Ficha]]></title>
+            <description><![CDATA[<article><h1>Vélez 1(3) - Juventud Unida 1(4): Ficha</h1><p>Vélez enfrentaba a Juventud Unida con la ilusión de avanzar en la Copa Argentina. Tras un comienzo donde se intentó el juego asociado, el equipo cayó en un bache del que no pudo salir. Un mal planteo y una peor ejecución desembocaron en un partido muy malo del equipo de Bassedas, que se puso arriba con tanto de Pavone, pero que faltando dos minutos, tras un error de Aguerre (que se quedó clavado y no salió), el Decano llegó al empate y se clasificó gracias a los penales.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef466c87-17ed-4282-a3c1-1454b9c79e14.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/velez-13-juventud-unida-14-ficha/index.html</link>
+            <guid isPermaLink="false">a4c5ad1a-d59e-46c5-a2ce-57c2836b94fe</guid>
+            <pubDate>Wed, 17 Aug 2016 16:41:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Vélez - Unión: Inferiores]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/pasion-fortinera/velez-racing-inferiores/index.html</link>
             <guid isPermaLink="false">46c5cb46-d17c-46b8-9ec8-337dc128e953</guid>
             <pubDate>Wed, 17 Aug 2016 15:58:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La vuelta del Tito]]></title>
-            <description><![CDATA[<article><h1>La vuelta del Tito</h1><p>Tras semanas de incertidumbre y de idas y vueltas, donde el Flamengo no quería soltar al jugador, se confirmó la vuelta de Tito Canteros al Club que lo vio nacer.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/la-vuelta-del-tito/index.html</link>
-            <guid isPermaLink="false">0e5ced4d-f043-469d-a2c0-7e223ede1d3e</guid>
-            <pubDate>Wed, 17 Aug 2016 15:48:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
