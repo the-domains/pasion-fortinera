@@ -9,20 +9,20 @@ description: >-
   2016. El Fortín enfrentó a Unión jugando las categorías mayores como local y
   las menores como visitante. El saldo fue excelente, ya que el Fortín obtuvo
   cinco victorias y una derrota.
-datePublished: '2016-08-17T16:30:08.717Z'
-dateModified: '2016-08-17T16:30:00.220Z'
-title: 'Vélez - Unión: Inferiores'
+datePublished: '2016-08-17T16:31:24.185Z'
+dateModified: '2016-08-17T16:31:05.328Z'
+title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-17-velez-union-inferiores.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-17-velez-union-inferiores.md
 url: velez-union-inferiores/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11189794-11d4-4a99-89ad-d861f5dab2a4.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7948b4b2-1d45-4b90-92c4-324c12c89753.jpg)
 
 # Vélez - Unión: Inferiores
 
