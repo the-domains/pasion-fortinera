@@ -4,7 +4,7 @@
         <description><![CDATA[Pasión Fortinera]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:08:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 16:15:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pasion-fortinera/65de01f1-0139-469a-a44f-afde44a94b3e/index.html</link>
             <guid isPermaLink="false">65de01f1-0139-469a-a44f-afde44a94b3e</guid>
             <pubDate>Sat, 11 Jun 2016 13:53:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Vélez - Ferro: Inferiores]]></title>
+            <description><![CDATA[<article><h1>Vélez - Ferro: Inferiores</h1><p>Esta semana se jugó la fecha 10 de la Zona Campeonato del Torneo de Inferiores 2016. El Fortín enfrentó a Ferro jugando las categorías menores como local y las mayores como visitante. El saldo fue muy bueno, ya que el Fortín obtuvo tres victorias y tres empates.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b5e4a6-80e7-42c1-bce9-d445acc57047.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/velez-ferro-inferiores/index.html</link>
+            <guid isPermaLink="false">559bd69e-4c85-4dc4-8b25-f39f5f03ad33</guid>
+            <pubDate>Wed, 17 Aug 2016 16:15:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Amistoso internacional]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Homenaje a Feijoó</h1><p>En la mañana del sábado, el Club Atlético Vélez Sarsfield, junto con la Agrupación Amalfitani, rindió homenaje al ex presidente José Ramón Feijoo en el Polideportivo que lleva su nombre. </p></article>]]></description>
             <link>https://thegrid.ai/pasion-fortinera/homenaje-a-feijoo/index.html</link>
             <guid isPermaLink="false">97d65eb0-b81e-4d97-a983-4ff893f10de2</guid>
-            <pubDate>Thu, 11 Aug 2016 18:09:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Vélez - Arsenal: Inferiores]]></title>
-            <description><![CDATA[<article><h1>Vélez - Arsenal: Inferiores</h1><p>Esta semana se jugó la fecha 7 de la Zona Campeonato del Torneo de Inferiores 2016. El Fortín enfrentó a Arsenal, jugando las categorías menores como local y las mayores como visitante. El saldo fue excelente, ya que el Fortín obtuvo seis victorias.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/velez-arsenal-inferiores/index.html</link>
-            <guid isPermaLink="false">078689db-1850-490f-b79b-c7818dd54d02</guid>
             <pubDate>Thu, 11 Aug 2016 18:09:35 GMT</pubDate>
         </item>
     </channel>
