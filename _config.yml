@@ -1,7 +1,18 @@
+layout_spectrum: 0.20599
+typography_spectrum: 0.06494063371792436
+color:
+  brandColors:
+    - '#fffdff'
+    - '#17418b'
+    - '#6b80a1'
+    - '#8ea2c7'
+    - '#bfcbda'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 1
+  rhythmicContrast: 0.75
 name: Pasión Fortinera
 favicon: null
-layout_spectrum: 0.20599
-typography_spectrum: 0.18982
 title: null
 collections:
   - index:
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#fffdff'
-    - '#17418b'
-    - '#6b80a1'
-    - '#8ea2c7'
-    - '#bfcbda'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.75
 purpose: []
