@@ -1,4 +1,3 @@
-layout_spectrum: 0.20599
 typography_spectrum: 0.027373547665774822
 color:
   brandColors:
@@ -11,9 +10,21 @@ color:
   lightness: 0.5
   saturation: 1
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.20599
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 name: Pasión Fortinera
+cta:
+  domain: null
+  bucket: null
+  version: null
 favicon: null
-title: null
 collections:
   - index:
       path: /
@@ -26,16 +37,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+title: SE EXPLICA SOLAMENTE CON EL CORAZON
 purpose: []
