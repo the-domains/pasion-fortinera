@@ -8,24 +8,20 @@ description: >-
   Hace unas semanas llegó la noticia que el Manchester City se llevaba a un
   juvenil de Vélez sin nada a cambio. Hoy, en Europa se habla de otro canterano
   del Fortín que interesa en el Viejo Continente.
-datePublished: '2016-08-24T18:38:16.581Z'
-dateModified: '2016-08-24T18:38:07.442Z'
+datePublished: '2016-08-24T18:38:45.887Z'
+dateModified: '2016-08-24T18:38:33.902Z'
 title: ¿Vienen por otro?
 author: []
 via: {}
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
 sourcePath: _posts/2016-08-24-vienen-por-otro.md
+authors: []
+publisher: {}
+starred: false
 url: vienen-por-otro/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f6eef1b-ed7e-4b7c-9899-05d481503573.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b4037cd-aec0-45b2-a93d-ea4a72999e06.jpg)
 
 # ¿Vienen por otro?
 
