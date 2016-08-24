@@ -4,8 +4,15 @@
         <description><![CDATA[PASION FORTINERA]]></description>
         <link>https://thegrid.ai/pasion-fortinera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 18:20:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 18:30:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pasion-fortinera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["A ojo de buen Cubero"]]></title>
+            <description><![CDATA[<article><h1>"A ojo de buen Cubero"</h1><p>Hace muchos, muchos años las minas de México se encontraban en muy mal estado y para poder conseguir sus objetivos muchos de los trabajadores, que trabajaban durante años en ella, dejaban su vida allí.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74408231-8c36-4f90-a32e-00874c8efe8d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pasion-fortinera/a-ojo-de-buen-cubero/index.html</link>
+            <guid isPermaLink="false">04413042-53db-47df-80c5-4b461a592402</guid>
+            <pubDate>Wed, 24 Aug 2016 18:27:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/126eff16-9ad9-4a0a-ab12-d63a01ffef10.jpg">]]></description>
@@ -61,13 +68,6 @@
             <link>https://thegrid.ai/pasion-fortinera/velez-ferro-inferiores/index.html</link>
             <guid isPermaLink="false">559bd69e-4c85-4dc4-8b25-f39f5f03ad33</guid>
             <pubDate>Wed, 17 Aug 2016 16:15:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Amistoso internacional]]></title>
-            <description><![CDATA[<article><h1>Amistoso internacional</h1><p>El sábado por la tarde, Vélez afrontó su primer amistoso formal (ya había disputado varios en la Villa). El rival fue Nacional de Uruguay, quien lo recibió en su estadio, el Gran Parque Central.</p></article>]]></description>
-            <link>https://thegrid.ai/pasion-fortinera/amistoso-internacional/index.html</link>
-            <guid isPermaLink="false">8b6e143b-0b79-4449-9c0f-2f7016b7c43e</guid>
-            <pubDate>Wed, 17 Aug 2016 16:07:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
