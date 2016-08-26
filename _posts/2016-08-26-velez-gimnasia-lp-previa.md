@@ -4,12 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Historial
-datePublished: '2016-08-26T12:43:11.866Z'
-dateModified: '2016-08-26T12:43:00.217Z'
+description: 'Historial '
+datePublished: '2016-08-26T13:10:43.340Z'
+dateModified: '2016-08-26T13:10:39.569Z'
 title: 'Vélez - Gimnasia LP: Previa'
 author: []
 via: {}
+sourcePath: _posts/2016-08-26-velez-gimnasia-lp-previa.md
 authors: []
 publisher:
   name: null
@@ -17,7 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-26-velez-gimnasia-lp-previa.md
 url: velez-gimnasia-lp-previa/index.html
 _type: Article
 
@@ -26,7 +26,7 @@ _type: Article
 
 # Vélez - Gimnasia LP: Previa
 
-_**Historial**_  
+_**Historial**_
 
 Jugaron 145 veces.
 
