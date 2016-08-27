@@ -8,11 +8,12 @@ description: >-
   El Fortín quiere arrancar de buena manera el Torneo y tendrá una parada
   difícil como visitante ante Gimnasia LP. En Pasión Fortinera analizamos el
   próximo rival del conjunto de Christian Bassedas.
-datePublished: '2016-08-26T15:03:39.575Z'
-dateModified: '2016-08-26T15:03:32.893Z'
+datePublished: '2016-08-26T15:29:14.205Z'
+dateModified: '2016-08-26T15:29:07.351Z'
 title: 'Gimnasia LP - Vélez: El rival'
 author: []
 via: {}
+sourcePath: _posts/2016-08-26-gimnasia-lp-velez-el-rival.md
 authors: []
 publisher:
   name: null
@@ -20,7 +21,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-08-26-gimnasia-lp-velez-el-rival.md
 url: gimnasia-lp-velez-el-rival/index.html
 _type: Article
 
