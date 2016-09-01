@@ -4,16 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-30T14:32:17.558Z'
-dateModified: '2016-08-30T14:27:01.819Z'
+description: 'Los Once '
+datePublished: '2016-08-30T14:35:57.566Z'
+dateModified: '2016-08-30T14:35:47.618Z'
 title: 'Gimnasia 2 - Vélez 0: Uno por Uno'
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-30-gimnasia-2-velez-0-uno-por-uno.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: gimnasia-2-velez-0-uno-por-uno/index.html
 _type: Article
 
@@ -22,7 +26,7 @@ _type: Article
 
 # Gimnasia 2 - Vélez 0: Uno por Uno
 
-_**Los Once**_  
+_**Los Once**_
 
 Alan Aguerre (5)
 
