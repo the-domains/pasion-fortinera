@@ -8,15 +8,15 @@ description: >-
   Vélez jugó mal y sucumbió ante un Lobo que entendió cómo jugar el partido y lo
   venció en su cancha por 2 a 0. A continuación, te dejamos el semáforo de la
   derrota del equipo de Bassedas.
-datePublished: '2016-08-30T14:51:06.236Z'
-dateModified: '2016-08-30T14:50:58.492Z'
+datePublished: '2016-08-30T14:59:29.690Z'
+dateModified: '2016-08-30T14:58:53.302Z'
 title: 'Gimnasia LP 2 - Vélez 0: El Semáforo'
 author: []
 via: {}
+sourcePath: _posts/2016-08-30-gimnasia-lp-2-velez-0-el-semaforo.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-30-gimnasia-lp-2-velez-0-el-semaforo.md
 url: gimnasia-lp-2-velez-0-el-semaforo/index.html
 _type: Article
 
