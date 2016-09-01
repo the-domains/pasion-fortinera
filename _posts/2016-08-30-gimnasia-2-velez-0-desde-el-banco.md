@@ -4,16 +4,28 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-30T13:55:04.624Z'
-dateModified: '2016-08-30T13:54:33.762Z'
+description: >-
+  Perdoname Christian. De corazón, te pido disculpas. Por la columna anterior
+  ante Juventud Unida en donde, luego de pasada la calentura, entendí tu
+  planteo. Porque el viernes hablé con vos para desearte lo mejor y me dijiste
+  “vamos a andar bien, los muchachos están bien”. Porque viendo la situación
+  mandaste a la cancha a 5 tipos de ataque, más dos laterales de velocidad y
+  proyección que nada pudieron hacer por tirar 4 centros más o menos decentes o
+  probar dos veces al arco en una cancha en donde ameritaba patear desde la
+  vereda de la Catedral de La Plata.
+datePublished: '2016-08-30T14:35:20.654Z'
+dateModified: '2016-08-30T14:35:12.122Z'
 title: 'Gimnasia 2 - Vélez 0: Desde el banco'
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-30-gimnasia-2-velez-0-desde-el-banco.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: false
 url: gimnasia-2-velez-0-desde-el-banco/index.html
 _type: Article
 
