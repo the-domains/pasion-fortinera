@@ -4,16 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-30T14:56:06.083Z'
-dateModified: '2016-08-30T14:55:53.273Z'
+description: >-
+  En 1970, la selección de Brasil tenía una característica distintiva: jugaba
+  con cinco número 10. Es decir que los cinco jugaban, en sus respectivos
+  equipos, de número 10. Y el jugador que oficiaba de 10 en esa selección era ni
+  más ni menos que Pelé.
+datePublished: '2016-08-30T15:10:02.355Z'
+dateModified: '2016-08-30T15:00:20.370Z'
 title: Qué puede aprender Vélez del Brasil del 70
 author: []
 via: {}
+sourcePath: _posts/2016-08-30-que-puede-aprender-velez-del-brasil-del-70.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-30-que-puede-aprender-velez-del-brasil-del-70.md
 url: que-puede-aprender-velez-del-brasil-del-70/index.html
 _type: Article
 
