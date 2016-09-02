@@ -4,16 +4,19 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-08-30T21:26:31.066Z'
-dateModified: '2016-08-30T21:26:23.987Z'
+description: >-
+  Vélez arrancó con el pie izquierdo el torneo 2016 y cayó derrotado en La Plata
+  frente a Gimnasia. En Pasión Fortinera analizamos los números que dejaron el
+  pobre debut del Fortín.
+datePublished: '2016-08-30T21:28:04.918Z'
+dateModified: '2016-08-30T21:27:58.972Z'
 title: 'Gimnasia 2 - Vélez 0: Los números'
 author: []
 via: {}
+sourcePath: _posts/2016-08-30-gimnasia-2-velez-0-los-numeros.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-30-gimnasia-2-velez-0-los-numeros.md
 url: gimnasia-2-velez-0-los-numeros/index.html
 _type: Article
 
@@ -90,7 +93,7 @@ Cristian Nasuti 30
 
 Diego Zabala 29
 
-PASES INCORRECTOS:  
+PASES INCORRECTOS:
 
 **Gimnasia 52 - 69 Vélez**
 
